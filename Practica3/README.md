@@ -11,9 +11,8 @@
 * **Fecha:** 13 de marzo de 2026
 * **Copyright:** © 2026
 
----
 
-**Tiempo requerido:** ~3 horas
+**Tiempo requerido:** 3 horas
 
 ## Objetivo
 Comprender la sintaxis y creación de tipos de datos en Haskell, así como el uso de las clases de tipos. Dominar la construcción de listas por comprensión aplicando restricciones de funciones básicas y desarrollando una lógica de programación funcional pura.
