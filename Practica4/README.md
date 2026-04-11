@@ -18,7 +18,6 @@
 ## Objetivo
 
 Implementar estructuras de datos algebraicas y recursión en Haskell para representar números naturales, enteros y matrioskas, evitando el uso de tipos primitivos.
-Tiempo requerido: 4 horas aproximadamente.
 
 ## Respuestas al Ejercicio 8 
 
