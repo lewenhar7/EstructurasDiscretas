@@ -7,7 +7,7 @@
 * **Asignatura:** Estructuras Discretas
 * **Información de la versión:** 1.0
 * **Profesor:** Rafael Reyes Sánchez
-* ** Ayudante de laboratorio:** Irvin Javier Cruz Gónzalez
+* **Ayudante de laboratorio:** Irvin Javier Cruz Gónzalez
 * **Ayudante:** Daniel Rojo Mata
 * **Fecha:** 10 de abril de 2026
 * **Copyright:** © 2026
